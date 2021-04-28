@@ -217,7 +217,7 @@ for i in range(0, len(Course)):
     if ol == 1:
         print(" Mark of the student ")
         show_mark()
-        break
+        break 
     else:
         break
 l = aver_gpa()
