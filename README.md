@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: ?oàn ?ình Nam
+* Student Name: Doan Dinh Nam
 * Student ID: Ba9-045
 
