@@ -31,7 +31,7 @@ def Markss(rec, name, id, marks, courses):
 
 
 # Main Code
-Record = []
+Record = [] 
 x = 'y'
 while x == 'y':
     a = input('Enter the name of the student: ')
