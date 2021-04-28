@@ -44,5 +44,5 @@ while x == 'y':
 # Printing the list of student
 n = 1
 for el in Record:
-    print(n, '. ', el)
+    print(n, '. ', el) 
     n = n + 1 
