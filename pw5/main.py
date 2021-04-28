@@ -8,7 +8,8 @@ from domain.Mark import *
 
 py = curses.initscr()
 curses.start_color()
-
+  
+       class mains():
 s = int(numberofstudent())
 l = 1
 while l <= s:
